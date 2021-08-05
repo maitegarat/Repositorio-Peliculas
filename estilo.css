@@ -1,0 +1,16 @@
+*{
+font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color:gainsboro;
+}
+
+h1{
+    font-weight: bold;
+    text-align: center
+}
+
+h2{
+    font-family: bold;
+}
