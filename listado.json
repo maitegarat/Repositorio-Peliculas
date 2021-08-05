@@ -1,0 +1,31 @@
+[
+    {"nombre":"El padrino (1972)",
+    "portada":0,
+    "sinopsis":"Don Vito Corleone, conocido dentro de los círculos del hampa como 'El Padrino', es el patriarca de una de las cinco familias que ejercen el mando de la Cosa Nostra en Nueva York en los años ccuarenta. Don Corleone tiene cuatro hijos: una chica, Connie, y tres varones; Sonny, Michael y Fredo. Cuando el Padrino reclina intervenir en el negocio de estupefacientes, empieza una cruenta lucha de violentos episodios entre las distintas familias del crimen organizado.",
+    "director":"Francis Ford Coppola"},
+
+    {"nombre":"Your name (2016)",
+    "portada":1,
+    "sinopsis":"La “historia de milagros y amor” gira en torno a Mitsuha y Taki. Mitsuha es una estudiante de secundaria que vive en un pueblo rural situado en las montañas. Su padre es el alcalde y no pasa mucho por casa, ella vive con su hermana pequeña estudiante de primaria y su abuela, ni ella ni su padre participan en una campaña electoral. Ella se lamenta de que vive confinada en un pueblo rural y anhela el maravilloso estilo de vida de Tokio. Taki es un estudiante de secundaria que vive en el centro de Tokio. Él pasa su tiempo junto a sus amigos, trabajando a tiempo parcial en un restaurante italiano y está interesado en la arquitectura y las bellas artes. Un día, Mitsuha tiene un sueño en el que ella tiene el cuerpo de un hombre joven. Taki también tiene un sueño parecido y en el que él es una estudiante de secundaria en un pueblo en las montañas en él que nunca ha estado. ¿Cuál es el secreto de sus sueños?",
+    "director":"Makoto Shinkai"},
+
+    {"nombre":"Pulp Fiction (1994)",
+    "portada":2,
+    "sinopsis":"Jules y Vincent, dos asesinos a sueldo con muy pocas luces, trabajan para Marsellus Wallace. Vincent le confiesa a Jules que Marsellus le ha pedido que cuide de Mia, su mujer. Jules le recomienda prudencia porque es muy peligroso sobrepasarse con la novia del jefe. Cuando llega la hora de trabajar, ambos deben ponerse manos a la obra. Su misión: recuperar un misterioso maletín.",
+    "director":"Quentin Tarantino"},
+
+    {"nombre":"El caballero oscuro (2008)",
+    "portada":3,
+    "sinopsis":"Batman/Bruce Wayne regresa para continuar su guerra contra el crimen. Con la ayuda del teniente Jim Gordon y del Fiscal del Distrito Harvey Dent, Batman se propone destruir el crimen organizado en la ciudad de Gotham. El triunvirato demuestra su eficacia, pero, de repente, aparece Joker, un nuevo criminal que desencadena el caos y tiene aterrados a los ciudadanos.",
+    "director":"Christopher Nolan"},
+
+    {"nombre":"Forrest Gump (1994)",
+    "portada":4,
+    "sinopsis":"Forrest Gump es un chico con deficiencias mentales no muy profundas y con alguna incapacidad motora que, a pesar de todo, llegará a convertirse, entre otras cosas, en un héroe durante la Guerra del Vietnam. Su persistencia y bondad le llevarán a conseguir una gran fortuna, ser objeto del clamor popular y a codearse con las más altas esferas sociales y políticas del país. Siempre sin olvidar a Jenny, su gran amor desde que era niño.",
+    "director":"Robert Zemeckis"},
+
+    {"nombre":"Psicosis (1960)",
+    "portada":5,
+    "sinopsis":"Una joven secretaria, tras cometer un robo, se marcha de la ciudad y conduce durante horas, parando para descansar en un pequeño motel de carretera regentado por un joven llamado Norman. Todo parece normal y tranquilo en el apartado motel y en la casa de al lado en la que viven Norman y su madre pero, mientras está en la ducha, la joven es asesinada salvajemente a cuchilladas.",
+    "director":"Alfred Hitchcock"}
+]
